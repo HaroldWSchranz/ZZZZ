@@ -1,0 +1,6 @@
+## HWS: 20230320: Ignore Visual Studio temporary directories: .vs, x64
+# Build results
+# x64/
+# Visual Studio cache/options directory
+.vs/
+
